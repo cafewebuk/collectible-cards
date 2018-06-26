@@ -1,0 +1,30 @@
+.title{
+  text-align: center;
+  font-size: x-large;
+}
+.card_picture{
+  width: 300px;
+  }/* add your CSS here */
+.card_text{
+  font-style: italic;
+}
+.card_labels{
+  font-weight: bold;
+  font-style: normal;
+}
+.card_items{
+  list-style-type: none;
+}
+.card_body{
+  border: 3px solid grey;
+  width: 300px;
+  padding: 0.1em 1.5em 1.5em 1.5em;
+  background-color: #fe949d;
+}
+.info_body{
+  border: 5px solid grey;
+  border-radius: 10px;
+  width: 238px;
+  padding: 0.2em 1.5em 0.2em 1.5em;
+  background-color: #fef2fd;
+}
